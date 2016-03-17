@@ -1,0 +1,46 @@
+.hey {
+    position: relative;
+}
+.viewport-h {
+    position: absolute;
+    left: 28%;
+    top: 119px;
+    width: 81px;
+}
+.viewport-e {
+    position: absolute;
+    left: 50%;
+    top: 180px;
+    margin-left: -43px;
+    width: 86px;
+}
+.viewport-y {
+    position: absolute;
+    right: 27.5%;
+    top: 122px;
+    width: 90px;
+}
+
+.layer_1, .layer_2, .layer_3, .layer_4, .layer_5 {
+    position: absolute;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.layer_1 {
+    z-index: 1;
+}
+.layer_2 {
+    z-index: 2;
+}
+.layer_3 {
+    z-index: 3;
+}
+.layer_4 {
+    z-index: 4;
+}
+.layer_5 {
+    z-index: 5;
+}    
+
