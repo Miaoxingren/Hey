@@ -1,0 +1,68 @@
+body {
+    background-color: #c7c6c9;
+    background-image: url(../images/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#wrapper {
+    position: relative;
+    padding-top: 80px;
+    width: 1260px;
+    margin: 0px auto;
+}
+
+#img-1 {
+    width: 1137px;
+    height: 256px;
+    position: absolute;
+    left: 42.1587301587302%;
+    margin-left: -479.344761904762px;
+}
+
+#img-2 {
+    width: 1020px;
+    position: absolute;
+    left: 42.1587301587302%;
+    margin-left: -430.019047619048px;
+}
+
+#img-3 {
+    width: 900px;
+    height: 470px;
+    position: absolute;
+    left: 42.1587301587302%;
+    margin-left: -379.428571428571px;
+}
+
+#img-4 {
+    width: 750px;
+    height: 129px;
+    position: absolute;
+    left: 42.1587301587302%;
+    margin-left: -316.190476190476px;
+}
+#img-1 img {
+    position: absolute;
+    top: 168px;
+    left: 100px;
+}
+
+#img-2 img {
+    position: absolute;
+    top: 88px;
+    left: 40px;
+}
+
+#img-3 img {
+    position: absolute;
+    top: 8px;
+    left: 120px;
+}
+
+#img-4 img {
+    position: absolute;
+    top: 428px;
+    left: 10px;
+}
+
